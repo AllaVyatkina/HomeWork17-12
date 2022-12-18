@@ -8,3 +8,4 @@
     } else {
       Console.WriteLine($"max = {secondNumber}, min = {firstNumber}");
     }
+    
